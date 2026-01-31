@@ -7,7 +7,7 @@ Welcome to my QA portfolio. This repository contains projects developed during m
 
 ---
 
-## 👤 About Me
+About Me
 
 I am a QA Engineer Jr in training with experience in:
 - Manual testing
@@ -19,9 +19,9 @@ I focus on ensuring software quality through structured testing, clear documenta
 
 ---
 
-## 🧪 Projects
+Projects
 
-### 🔹 Project 1: Web Application Testing
+Project 1: Web Application Testing
 
 **Context:**  
 Academic project from TripleTen Bootcamp focused on testing a web application.
@@ -39,7 +39,7 @@ Identified validation issues and improved test coverage, contributing to higher 
 
 ---
 
-### 🔹 Project 2: API Testing (Postman)
+Project 2: API Testing (Postman)
 
 **Context:**  
 Academic project focused on testing REST APIs.
@@ -56,7 +56,7 @@ Detected inconsistencies in error responses and documented defects, improving AP
 
 ---
 
-## 🛠 Skills
+Skills
 
 - Manual Testing  
 - Test Case Design  
@@ -70,10 +70,10 @@ Detected inconsistencies in error responses and documented defects, improving AP
 
 ---
 
-## 📫 Contact
+Contact
 
-- Email: pitter.jmc12@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/TU-USUARIO  
+- Email: pitter.imc12@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/pitterpi
 - Location: Tecate, Mexico  
 
 ---
